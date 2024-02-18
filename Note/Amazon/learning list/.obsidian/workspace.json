@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "e91abd453905328e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c991ed31b13c73eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1d32745c4209623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/javaScript/基础/JavaScript break 和 continue 语句.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cbe7cb1c883b84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/javaScript/JS类/JavaScript 类继承.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "accdb3fd58cb79cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18d6cc07607d641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1ce590ab70801b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f36433ff7ca0ef24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6432e2e0dec143af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81b47e9af000fab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc6095d9a9296539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42c30482c9d14d1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Node.js/javaScript/JS类/JavaScript 类继承.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7f49dcfe34201f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Node.js/javaScript/JS类/JavaScript 类继承.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac9eb428e9496597",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d874301eb4de9abe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Node.js/javaScript/JS类/JavaScript 类继承.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4cbe7cb1c883b84d",
+  "lastOpenFiles": [
+    "Node.js/javaScript/基础/JavaScript if...Else 语句.md",
+    "Node.js/javaScript/基础/JavaScript 表单验证.md",
+    "Node.js/javaScript/基础/JavaScript 调试.md",
+    "Node.js/javaScript/基础/JavaScript 错误 - throw、try 和 catch.md",
+    "Node.js/javaScript/基础/JavaScript 异步编程.md",
+    "Node.js/javaScript/await、async关键字.md",
+    "Restful API/Restful API.md",
+    "Restful API/token.md",
+    "Restful API/标准Restful API调用方法.md",
+    "Restful API",
+    "Amazon Kinesis/什么是 Amazon Kinesis Data Streams？.md",
+    "Amazon Kinesis/Kinesis组件概念（Data Streams）.md",
+    "Amazon Kinesis/Amazon Kinesis Data Streams 术语和概念.md",
+    "severless/YML文件配置.md",
+    "severless/命令.md",
+    "Node.js/正则/未命名.md",
+    "Node.js/正则/正则表达式 - 语法.md",
+    "Node.js/正则/正则表达式 - 简介.md",
+    "Node.js/正则/正则表达式 - 教程.md",
+    "学习清单.md",
+    "Node.js/正则",
+    "Node.js/未命名.md",
+    "Pasted image 20230621095121.png",
+    "Node.js/javaScript/JS高级教程/JavaScript Array（数组） 对象.md",
+    "Node.js/javaScript/注意点.md",
+    "Node.js/javaScript/JS高级教程/JavaScript 字符串（String） 对象.md",
+    "Node.js/javaScript/JS类/JavaScript 类(class).md",
+    "AWS Lambda/Lambda Extensions/Lambda 扩展 API.md",
+    "AWS Lambda/Lambda Extensions/配置 Lambda 扩展.md",
+    "Pasted image 20230621095110.png",
+    "Pasted image 20230621095053.png",
+    "severless",
+    "serverless",
+    "AWS CLI",
+    "Amazon Redshift",
+    "Node.js/nodejs",
+    "Node.js/javaScript/JS高级教程",
+    "Node.js/javaScript/JS类",
+    "Node.js/javaScript/JS函数",
+    "Pasted image 20230606104739.png",
+    "Pasted image 20230605134527.png",
+    "Pasted image 20230605134431.png"
+  ]
+}

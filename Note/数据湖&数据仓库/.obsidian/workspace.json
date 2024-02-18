@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "dce6551b7004f4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "47835e2c4c523ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38267a6732a8c44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据仓库/数据建模.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97ae6c4965504aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据仓库/事实表和维度表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6ad2127cef208eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0401c4d29b59a7b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ee237b844ba18c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b101683cc2a844a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52149fd8b6e07ed7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d33a22956ec5e91",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f3c26285835f59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e193dbbcc5636467",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据仓库/事实表和维度表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd15eff8abf09d48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据仓库/事实表和维度表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "593ea6739a3a36e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8059d9ed080e9e4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据仓库/事实表和维度表.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "97ae6c4965504aaa",
+  "lastOpenFiles": [
+    "数据仓库/数据仓库的分层.md",
+    "数据仓库/数据建模.md",
+    "数据仓库/事实表和维度表.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "湖仓一体/湖仓一体的好处.md",
+    "湖仓一体/什么是湖仓一体？.md",
+    "数据湖/数据湖的特征.md",
+    "数据湖/数据湖与数据仓库的对比.md",
+    "数据湖/数据湖(Data Lake)的概念.md",
+    "数据仓库/数据集市(Data Mart).md",
+    "数据仓库/什么时候需要构建数据仓库？.md",
+    "数据仓库/数据仓库(Data Warehouse)的概念.md",
+    "Pasted image 20230512171810.png",
+    "Pasted image 20230512171146.png",
+    "数据湖/Untitled.md",
+    "湖仓一体",
+    "数据仓库",
+    "Pasted image 20230512164000.png",
+    "数据湖"
+  ]
+}

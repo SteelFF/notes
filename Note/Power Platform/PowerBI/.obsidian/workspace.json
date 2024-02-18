@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "5ecee89065b4194a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a08c365d8ce7b8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe67af94d2aec5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基本概念/筛选器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72330550c501d949",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab7a4eab57424b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5012a175e8af1d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11f2a7829a100fd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c17dc85622386b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "668c4aaf11887e53",
+    "type": "split",
+    "children": [
+      {
+        "id": "42f98cde4da4f4c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a832e03c20c6769",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "基本概念/筛选器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d985fccd18887d13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "基本概念/筛选器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bcda626d06fa95f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b743113711636f25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "基本概念/筛选器.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fe67af94d2aec5e2",
+  "lastOpenFiles": [
+    "基本概念/磁贴.md",
+    "基本概念/书签.md",
+    "基本概念/切片器.md",
+    "仪表板与报表的区别.md",
+    "基本概念.md",
+    "基本概念/筛选器.md",
+    "基本概念/报表.md",
+    "基本概念/仪表板(画布).md",
+    "基本概念",
+    "基本概念/Pasted image 20230529161825.png"
+  ]
+}

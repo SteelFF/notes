@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "7dccf6f9f1f82aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "1093091cf58a4a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e6bf9a5ee2b4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic Apps/Logic Apps概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "550420f50b66bc9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f44220346123ed65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c9c173941afefc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51dd62d7ac03e0d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44c6407d022b6708",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d06f3dcfc1a4722d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3315705beb2174e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3f6ca25af06b342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e911967ecf9779f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logic Apps/Logic Apps概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "952a37225a39c116",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logic Apps/Logic Apps概述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4de3b269943ceb19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ee8e016c30415cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logic Apps/Logic Apps概述.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "97e6bf9a5ee2b4bc",
+  "lastOpenFiles": [
+    "Azure概述.md",
+    "Synapse Analytics/Synapse Analytics.md",
+    "HDInsight/HDInsight.md",
+    "HDInsight/HDInsight项目.md",
+    "Logic Apps/Logic Apps概述.md",
+    "BlobStorage/Data Lake Storage Gen2.md",
+    "BlobStorage/Blob开发.md",
+    "BlobStorage/assets/Pasted image 20230323182245.png",
+    "API Management/API Management.md",
+    "Active Directory/Azure AD.md",
+    "Databricks/Auto loader & DLT.md",
+    "BlobStorage/Blob.md",
+    "项目理解/项目基本环境.md",
+    "项目理解/CDP项目目前开发业务.md",
+    "项目理解",
+    "项目.md",
+    "Functions/Functions.md",
+    "Event Hubs/Event Hubs.md",
+    "Event Grid/Event Grid.md",
+    "CosmosDB/利用 Synapse Link 分析.md",
+    "CosmosDB/CosmosDB概念.md",
+    "CosmosDB/Python for azure-cosmos.md",
+    "CosmosDB/NoSQL开发.md",
+    "Functions/Timer.md"
+  ]
+}

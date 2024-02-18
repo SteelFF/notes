@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c02d50ad5c272b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6bda9b8be096c43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ad9ed7e4ae3618e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon/learning list/EC2/Classic Ports to know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "141cc61b6f421bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infobip/Answers/Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0830173ed1f41547",
+    "type": "split",
+    "children": [
+      {
+        "id": "52f7d1af0fb266b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21ba1cee1c5908a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60045ecc42d3a0f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4e2ac8db6baa484",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7fabc8e08b22379",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef048de7f0e2a294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da7226170cacccb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Infobip/Answers/Concepts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfc41222cb2c50ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Infobip/Answers/Concepts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "244bee57686c05ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bafbdc62179fc95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Infobip/Answers/Concepts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "141cc61b6f421bbd",
+  "lastOpenFiles": [
+    "Infobip/Answers/URL.md",
+    "Infobip/Answers/Concepts.md",
+    "Infobip/Answers/聊天机器人组件/Dialogs.md",
+    "Infobip/Answers/聊天机器人元素/聊天机器人元素.md",
+    "Infobip/Answers/聊天机器人元素/渠道要素.md",
+    "Infobip/Answers/聊天机器人元素/核心元素(在编辑中表现为Chatbot actions).md",
+    "Infobip/Answers/人工智能聊天机器人/人工智能聊天机器人.md",
+    "Infobip/Answers/人工智能聊天机器人/Natural Language Processing.md",
+    "Infobip/Answers/人工智能聊天机器人/Intents.md",
+    "Infobip/Answers/人工智能聊天机器人/Guidelines and Best Practices.md",
+    "Azure/Synapse Analytics/Synapse Analytics.md",
+    "Azure/Functions/Timer.md",
+    "Azure/Functions/Functions.md",
+    "Azure/Event Hubs/Event Hubs.md",
+    "Azure/Event Grid/Event Grid.md",
+    "Azure/DevOps/DevOps.md",
+    "Azure/DataFactory/DataFactory使用.md",
+    "Azure/DataFactory/DataFactory概述.md",
+    "Azure/Databricks/DBFS & Rest API.md",
+    "Azure/Databricks/Databricks Plane.md",
+    "Azure/Databricks/Databricks.md",
+    "Azure/Databricks/Auto loader & DLT.md",
+    "Azure/CosmosDB/利用 Synapse Link 分析.md",
+    "Azure/CosmosDB/Python for azure-cosmos.md",
+    "Azure/CosmosDB/MongoDB开发.md",
+    "Azure/CosmosDB/NoSQL开发.md",
+    "Azure/HDInsight/assets/Pasted image 20230327091913.png",
+    "Amazon/learning list/Pasted image 20230605134527.png",
+    "Amazon/learning list/EC2",
+    "Others",
+    "Amazon/learning list/IAM",
+    "备忘录",
+    "Shell"
+  ]
+}

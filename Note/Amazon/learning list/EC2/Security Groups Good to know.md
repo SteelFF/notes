@@ -1,0 +1,8 @@
+- Can be attached to multiple instances. (一个安全组可以被多个实例集成，一个实例可以继承多个安全组)
+-  Locked down to a region /VPC combination
+-  Does live "outside" the EC2 - if traffic is blocked the EC2 instance won't see it
+-  <font color = "blue">It's good to maintain one separate security group for SSH access</font>
+-  If your application is not accessible (time out), then it's a security group issue
+-  If your application gives a "connection refused" error, then it's an application error or it's not launched
+-  All inbound traffic is <font color = "red">blocked</font> by default
+-  All outbound traffic is <font color = "green">authorised</font> by default

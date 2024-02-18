@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f26dd6477a6be333",
+    "type": "split",
+    "children": [
+      {
+        "id": "a890b84515f6bc08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f07dde522e9dba23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/Others/Node.js/正则/正则表达式 - 简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87105b3ba87addcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b0c8c2e4bdbd9b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "371feec0ffe1814b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fcdc950992c2276",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9907d4f7a90a0c76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91c5966d31636805",
+    "type": "split",
+    "children": [
+      {
+        "id": "6439cfa8b0107237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceaf8dc8dcb975f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/Others/Node.js/正则/正则表达式 - 简介.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96e2b89e6f36281a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note/Others/Node.js/正则/正则表达式 - 简介.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5646e4b6aeeb6456",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b911cd9393a6856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Others/Node.js/正则/正则表达式 - 简介.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false
+    }
+  },
+  "active": "f07dde522e9dba23",
+  "lastOpenFiles": [
+    "Note/Others/Node.js/正则/正则表达式 - 教程.md",
+    "Note/Others/SQL/存储过程/存储过程.md",
+    "Note/Others/Node.js/正则/未命名.md",
+    "Note/Power Platform/PowerBI/基本概念/报表.md",
+    "Note/Power Platform/PowerBI/基本概念/筛选器.md",
+    "Note/Power Platform/PowerBI/基本概念/磁贴.md",
+    "Note/Power Platform/PowerBI/基本概念/仪表板(画布).md",
+    "Note/Power Platform/PowerBI/基本概念/书签.md",
+    "Note/Power Platform/PowerBI/基本概念/Pasted image 20230529161825.png",
+    "Note/Shell/编写健壮的Bash shell脚本.md",
+    "Note/数据湖&数据仓库/数据仓库/数据集市(Data Mart).md",
+    "Note/Others/SQL/关系型数据库JOIN优化以及原理.md",
+    "Note/数据湖&数据仓库/数据仓库/数据建模.md",
+    "Note/数据湖&数据仓库/数据仓库/数据仓库的分层.md",
+    "Note/数据湖&数据仓库/数据仓库/数据仓库(Data Warehouse)的概念.md",
+    "Note/数据湖&数据仓库/数据仓库/事实表和维度表.md",
+    "Note/备忘录/备忘录.md",
+    "Note/备忘录/变量命名规范--匈牙利命名法，骆驼命名法，帕斯卡命名法.md",
+    "Note/Others/SQL/存储过程",
+    "Note/Others/severless/命令.md",
+    "Note/Others/severless/YML文件配置.md",
+    "Note/Azure/BlobStorage/Blob开发.md",
+    "Note/Azure/BlobStorage/Blob.md",
+    "Note/Azure/BlobStorage/assets/Pasted image 20230323182245.png",
+    "Note/Azure/API Management/API Management.md",
+    "Note/Azure/Active Directory/Azure AD.md",
+    "Note/Amazon/learning list/Pasted image 20230606104739.png",
+    "Note/Amazon/learning list/学习清单.md",
+    "Note/Amazon/learning list/Pasted image 20230605134527.png",
+    "Note/Amazon/learning list/IAM/IAM Section - Summary.md",
+    "Note/Amazon/learning list/IAM/IAM Guidelines & Best Practices.md",
+    "Pasted image 20231222104035.png",
+    "Pasted image 20231222103944.png",
+    "Note/Others/Crontab概念",
+    "Pasted image 20230711101235.png",
+    "Learning_notebook",
+    "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 遥测 API",
+    "Note/Others/Node.js/javaScript/基础",
+    "Note/Others/Node.js/javaScript/JS高级教程",
+    "Note/Others/Node.js/javaScript/JS类",
+    "Note/Others/Node.js/javaScript/JS函数",
+    "Note/Azure/HDInsight/assets/Pasted image 20230327092214.png",
+    "Note/Azure/Event Hubs/assets/Pasted image 20230324175209.png",
+    "Note/Azure/Event Hubs/assets/Pasted image 20230323174306.png",
+    "Note/Amazon/learning list/AWS Lambda/配置函数",
+    "Note/Amazon/learning list/AWS Lambda/部署函数"
+  ]
+}

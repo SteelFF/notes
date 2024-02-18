@@ -1,0 +1,1 @@
+数据平台将您的所有客户信息存储在一处，并在您正在使用的 Infobip 产品和解决方案中激活它。它持续“提供”您与客户基于行为的交互以及通过联络中心或[聊天机器人](https://www.infobip.com/docs/answers)进行的[对话](https://www.infobip.com/docs/conversations)所需的相关信息，以帮助您构建有意义的客户旅程。

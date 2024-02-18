@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "28f39c556bbfb18a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e43c7d2117480a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04b8538aa9c8f6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Create and Synchronize Profiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b91686d94e1e1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Manage Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef3e92223db0e3b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dbe7f88e67cd230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d4407f7a845c799",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cf608c0de78801f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10aa496831b5a8a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78e7fe2fb915720c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec206014ee96401b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e219481f4ec80740",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Manage Data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e2829b80f86182b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Manage Data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ef2606b4429912f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdcf187639f92884",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People/Manage Data.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9b91686d94e1e1b1",
+  "lastOpenFiles": [
+    "People/Create and Synchronize Profiles.md",
+    "People/Manage Data.md",
+    "People/Events.md",
+    "People/Before Getting Started.md",
+    "Answers/聊天机器人组件/Attributes.md",
+    "Answers/集成/集成.md",
+    "People/People.md",
+    "People/Manage Audience.md",
+    "People/Getting Started.md",
+    "Answers/聊天机器人元素/核心元素(在编辑中表现为Chatbot actions).md",
+    "Answers/聊天机器人元素/渠道要素.md",
+    "Answers/集成/People.md",
+    "Answers/URL.md",
+    "Answers/集成/External contact center solutions.md",
+    "Answers/聊天机器人组件/Dialogs.md",
+    "Answers/聊天机器人组件/keywords.md",
+    "Answers/聊天机器人元素/聊天机器人元素.md",
+    "Answers/人工智能聊天机器人/人工智能聊天机器人.md",
+    "Answers/人工智能聊天机器人/Natural Language Processing.md",
+    "Answers/人工智能聊天机器人/Intents.md",
+    "Answers/人工智能聊天机器人/Guidelines and Best Practices.md",
+    "Answers/Concepts.md",
+    "Answers/Chatbot Types.md",
+    "Answers/集成/External solutions.md",
+    "Answers/聊天机器人组件/聊天机器人组件.md",
+    "Expression Language.md",
+    "Answers/集成",
+    "Answers/人工智能聊天机器人",
+    "People",
+    "Answers/聊天机器人元素",
+    "Answers/聊天机器人组件",
+    "Answers"
+  ]
+}

@@ -11,19 +11,19 @@
 
 ### 事务控制语句：
 
-- BEGIN 或 START TRANSACTION 显式地开启一个事务；
+- <strong>BEGIN</strong> 或 <strong>START TRANSACTION</strong> 显式地开启一个事务；
     
-- COMMIT 也可以使用 COMMIT WORK，不过二者是等价的。COMMIT 会提交事务，并使已对数据库进行的所有修改成为永久性的；
+- <strong>COMMIT</strong> 也可以使用 <strong>COMMIT WORK</strong>，不过二者是等价的。COMMIT 会提交事务，并使已对数据库进行的所有修改成为永久性的；
     
-- ROLLBACK 也可以使用 ROLLBACK WORK，不过二者是等价的。回滚会结束用户的事务，并撤销正在进行的所有未提交的修改；
+- <strong>ROLLBACK</strong> 也可以使用 <strong>ROLLBACK WORK</strong>，不过二者是等价的。回滚会结束用户的事务，并撤销正在进行的所有未提交的修改；
     
-- SAVEPOINT identifier，SAVEPOINT 允许在事务中创建一个保存点，一个事务中可以有多个 SAVEPOINT；
+- <strong>SAVEPOINT identifier</strong>，<strong>SAVEPOINT</strong> 允许在事务中创建一个保存点，一个事务中可以有多个 SAVEPOINT；
     
-- RELEASE SAVEPOINT identifier 删除一个事务的保存点，当没有指定的保存点时，执行该语句会抛出一个异常；
+- <strong>RELEASE SAVEPOINT identifier</strong> 删除一个事务的保存点，当没有指定的保存点时，执行该语句会抛出一个异常；
     
-- ROLLBACK TO identifier 把事务回滚到标记点；
+- <strong>ROLLBACK TO identifier</strong> 把事务回滚到标记点；
     
-- SET TRANSACTION 用来设置事务的隔离级别。InnoDB 存储引擎提供事务的隔离级别有READ UNCOMMITTED、READ COMMITTED、REPEATABLE READ 和 SERIALIZABLE。
+- <strong>SET TRANSACTION</strong> 用来设置事务的隔离级别。InnoDB 存储引擎提供事务的隔离级别有<strong>READ UNCOMMITTED、READ COMMITTED、REPEATABLE READ 和 SERIALIZABLE</strong>。
     
 
 ![](https://www.runoob.com/wp-content/uploads/2014/03/python_mysql_transction_management-e1530354220769.webp)

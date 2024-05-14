@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Others/SQL/Mysql/MySQL创建表.md",
+                "file": "Note/Others/SQL/SQL 要点.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Others/SQL/Mysql/MySQL创建表.md",
+                "file": "Note/Others/SQL/SQL 要点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Others/SQL/Mysql/MySQL创建表.md",
+                "file": "Note/Others/SQL/SQL 要点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Others/SQL/Mysql/MySQL创建表.md"
+                "file": "Note/Others/SQL/SQL 要点.md"
               }
             }
           }
@@ -160,12 +160,13 @@
   },
   "active": "f07dde522e9dba23",
   "lastOpenFiles": [
-    "Note/Others/数据库恢复与并发控制/事务.md",
+    "Note/Others/SQL/Mysql/MySQL事务.md",
+    "Note/Others/SQL/SQL 要点.md",
     "Note/Others/SQL/Mysql/MySQL创建表.md",
+    "Note/Others/数据库恢复与并发控制/事务.md",
     "Note/Others/数据库恢复与并发控制/ACID数据库和BASE数据库.md",
     "Note/Others/关系代数/关系范式.md",
     "Note/Others/关系代数/依赖.md",
-    "Note/Others/SQL/Mysql/MySQL事务.md",
     "Note/Others/SQL/Mysql/Explain.md",
     "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
     "Note/Others/SQL/Join/关系型数据库JOIN优化以及原理.md",
@@ -186,7 +187,6 @@
     "Note/Amazon/learning list/Amazon Redshift/Amazon Redshift 概念概述.md",
     "Note/Amazon/learning list/Amazon Kinesis/什么是 Amazon Kinesis Data Streams？.md",
     "Note/Amazon/learning list/Amazon Kinesis/Kinesis组件概念（Data Streams）.md",
-    "Note/Amazon/learning list/Amazon Kinesis/Amazon Kinesis Data Streams 术语和概念.md",
     "Note/Others/关系代数",
     "Pasted image 20240424095025.png",
     "Note/Others/SQL/Mysql",

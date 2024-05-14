@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Others/SQL/SQL限制.md",
+                "file": "Note/Others/SQL/Mysql/MySQL创建表.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Others/SQL/Mysql/Explain.md",
+                "file": "Note/Others/关系代数/依赖.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Others/SQL/Mysql/Explain.md",
+                "file": "Note/Others/SQL/Mysql/MySQL创建表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Others/SQL/Mysql/Explain.md",
+                "file": "Note/Others/SQL/Mysql/MySQL创建表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Others/SQL/Mysql/Explain.md"
+                "file": "Note/Others/SQL/Mysql/MySQL创建表.md"
               }
             }
           }
@@ -151,45 +150,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "graph:查看关系图谱": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6c65eb78c42224e6",
+  "active": "f07dde522e9dba23",
   "lastOpenFiles": [
+    "Note/Others/数据库恢复与并发控制/事务.md",
+    "Note/Others/SQL/Mysql/MySQL创建表.md",
+    "Note/Others/数据库恢复与并发控制/ACID数据库和BASE数据库.md",
+    "Note/Others/关系代数/关系范式.md",
+    "Note/Others/关系代数/依赖.md",
+    "Note/Others/SQL/Mysql/MySQL事务.md",
     "Note/Others/SQL/Mysql/Explain.md",
+    "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
+    "Note/Others/SQL/Join/关系型数据库JOIN优化以及原理.md",
+    "Note/lambda框架与Kappa框架/Kappa框架/Kappa架构的选型.md",
+    "Note/lambda框架与Kappa框架/Kappa框架/什么是Kappa架构.md",
+    "Note/lambda框架与Kappa框架/Kappa框架/Kappa结构的组成.md",
+    "Note/lambda框架与Kappa框架/Lambda框架/Lambda架构选型.md",
+    "Note/lambda框架与Kappa框架/Lambda框架/Lambda框架的优点与缺点.md",
+    "Note/lambda框架与Kappa框架/Lambda框架/Lambda框架的组成以及概念.md",
+    "Note/lambda框架与Kappa框架/Lambda框架/什么是Lambda框架.md",
+    "Note/跨域问题.md",
+    "Note/Others/数据库恢复与并发控制",
+    "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 遥测 API/Lambda 遥测 API.md",
+    "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Amazon Lambda 扩展合作伙伴.md",
+    "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 扩展.md",
+    "Note/Amazon/learning list/AWS Lambda/Lambda Runtimes/运行时更新.md",
+    "Note/Amazon/learning list/AWS Lambda/Lambda Runtimes/自定义 Amazon Lambda 运行时.md",
+    "Note/Amazon/learning list/Amazon Redshift/Amazon Redshift 概念概述.md",
+    "Note/Amazon/learning list/Amazon Kinesis/什么是 Amazon Kinesis Data Streams？.md",
+    "Note/Amazon/learning list/Amazon Kinesis/Kinesis组件概念（Data Streams）.md",
+    "Note/Amazon/learning list/Amazon Kinesis/Amazon Kinesis Data Streams 术语和概念.md",
+    "Note/Others/关系代数",
+    "Pasted image 20240424095025.png",
     "Note/Others/SQL/Mysql",
-    "Note/Others/SQL/未命名.md",
-    "Note/备忘录/备忘录.md",
-    "Note/Azure/Azure概述.md",
-    "Note/Infobip/People/Events.md",
-    "Note/Shell/编写健壮的Bash shell脚本.md",
-    "Note/Power Platform/PowerBI/基本概念/磁贴.md",
-    "Note/Power Platform/PowerBI/基本概念/筛选器.md",
-    "Note/Power Platform/PowerBI/基本概念/报表.md",
-    "Note/Power Platform/PowerBI/基本概念/仪表板(画布).md",
-    "Note/Power Platform/PowerBI/基本概念/切片器.md",
-    "Note/Power Platform/PowerBI/基本概念/书签.md",
     "Note/Power Platform/PowerBI/基本概念/Pasted image 20230529161825.png",
-    "AAD B2C/概念/技术概述.md",
-    "AAD B2C/概念/AAD B2C.md",
     "Note/Azure/BlobStorage/assets/Pasted image 20230323182245.png",
-    "Note/Azure/API Management/API Management.md",
-    "Note/Azure/Active Directory/Azure AD.md",
-    "Note/Infobip/People/Before Getting Started.md",
-    "Note/Others/Crontab概念/不同环境支持的Crontab.md",
-    "Note/Others/Crontab概念/Crontab.md",
-    "Note/Others/Node.js/javaScript/JS函数/JavaScript 函数定义.md",
-    "Note/Others/Node.js/nodejs/Node.js EventEmitter.md",
-    "Note/Others/Node.js/正则/正则表达式 - 教程.md",
-    "Note/Others/Node.js/正则/正则表达式 - 简介.md",
-    "Note/Others/Node.js/正则/正则表达式 - 语法.md",
-    "Note/Others/SQL/SQL限制.md",
-    "Note/Others/SQL/In 与 Exists 从句优化.md",
     "Note/Others/SQL/Join",
     "Note/Others/SQL/存储过程",
     "Note/Amazon/learning list/Pasted image 20230606104739.png",
@@ -202,10 +204,7 @@
     "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 遥测 API",
     "Note/Others/Node.js/javaScript/基础",
     "Note/Others/Node.js/javaScript/JS高级教程",
-    "Note/Others/Node.js/javaScript/JS类",
-    "Note/Others/Node.js/javaScript/JS函数",
     "Note/Azure/HDInsight/assets/Pasted image 20230327092214.png",
-    "Note/Azure/Event Hubs/assets/Pasted image 20230324175209.png",
-    "Note/Azure/Event Hubs/assets/Pasted image 20230323174306.png"
+    "Note/Azure/Event Hubs/assets/Pasted image 20230324175209.png"
   ]
 }

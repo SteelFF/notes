@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
+                "file": "Note/Others/网络/浏览器域名解析流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
+                "file": "Note/Others/网络/浏览器域名解析流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
+                "file": "Note/Others/网络/浏览器域名解析流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Others/SQL/Join/Join 驱动表与被驱动表.md"
+                "file": "Note/Others/网络/浏览器域名解析流程.md"
               }
             }
           }
@@ -160,17 +160,21 @@
   },
   "active": "f07dde522e9dba23",
   "lastOpenFiles": [
-    "Note/Others/SQL/In 与 Exists 从句优化.md",
-    "Note/Others/关系代数/依赖.md",
-    "Note/Others/SQL/SQL限制.md",
-    "Note/Others/SQL/SQL 要点.md",
+    "Note/Others/SQL/PREPARE & EXECUTE & DEALLOCATE PREPARE.md",
+    "Note/Others/网络/浏览器域名解析流程.md",
+    "Note/Others/网络",
+    "Note/Others/SQL/存储过程/存储过程代码示例.md",
     "Note/Others/SQL/存储过程/存储过程.md",
     "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
     "Note/Others/SQL/Join/关系型数据库JOIN优化以及原理.md",
-    "Note/Others/关系代数/关系范式.md",
-    "Note/Others/SQL/Mysql/Explain.md",
-    "Note/Others/数据库恢复与并发控制/事务.md",
     "Note/Others/SQL/Mysql/MySQL事务.md",
+    "Note/Others/SQL/Mysql/Explain.md",
+    "Note/Others/SQL/In 与 Exists 从句优化.md",
+    "Note/Others/SQL/SQL 要点.md",
+    "Note/Others/关系代数/依赖.md",
+    "Note/Others/关系代数/关系范式.md",
+    "Note/Others/SQL/SQL限制.md",
+    "Note/Others/数据库恢复与并发控制/事务.md",
     "Note/Others/SQL/Mysql/MySQL创建表.md",
     "Note/Others/数据库恢复与并发控制/ACID数据库和BASE数据库.md",
     "Note/lambda框架与Kappa框架/Kappa框架/Kappa架构的选型.md",
@@ -184,9 +188,6 @@
     "Note/Others/数据库恢复与并发控制",
     "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 遥测 API/Lambda 遥测 API.md",
     "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Amazon Lambda 扩展合作伙伴.md",
-    "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 扩展.md",
-    "Note/Amazon/learning list/AWS Lambda/Lambda Runtimes/运行时更新.md",
-    "Note/Amazon/learning list/AWS Lambda/Lambda Runtimes/自定义 Amazon Lambda 运行时.md",
     "Note/Others/关系代数",
     "Pasted image 20240424095025.png",
     "Note/Others/SQL/Mysql",
@@ -203,7 +204,6 @@
     "Learning_notebook",
     "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 遥测 API",
     "Note/Others/Node.js/javaScript/基础",
-    "Note/Others/Node.js/javaScript/JS高级教程",
     "Note/Azure/HDInsight/assets/Pasted image 20230327092214.png",
     "Note/Azure/Event Hubs/assets/Pasted image 20230324175209.png"
   ]

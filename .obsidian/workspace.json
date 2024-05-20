@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Others/网络/浏览器域名解析流程.md",
+                "file": "Note/Others/数据挖掘/常用的数据挖掘算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Others/网络/浏览器域名解析流程.md",
+                "file": "Note/Others/数据挖掘/常用的数据挖掘算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Others/网络/浏览器域名解析流程.md",
+                "file": "Note/Others/数据挖掘/常用的数据挖掘算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Others/网络/浏览器域名解析流程.md"
+                "file": "Note/Others/数据挖掘/常用的数据挖掘算法.md"
               }
             }
           }
@@ -160,34 +160,36 @@
   },
   "active": "f07dde522e9dba23",
   "lastOpenFiles": [
+    "Note/Others/网络/网络设备.md",
+    "Note/Others/网络/域名解析流程.md",
+    "Pasted image 20230711101235.png",
+    "Note/Others/数据挖掘/常用的数据挖掘算法.md",
+    "Pasted image 20240520131622.png",
+    "Note/Others/关系代数/依赖.md",
+    "Note/Others/数据挖掘",
+    "Note/Others/Untitled.md",
+    "Note/Others/Node.js/nodejs/Node.js 连接 MongoDB.md",
+    "Note/Others/Node.js/nodejs/Node.js模块系统.md",
+    "Note/Others/Node.js/nodejs/NPM 使用介绍.md",
+    "Note/Others/Node.js/nodejs/Node.js Express 框架.md",
+    "Note/Others/Node.js/nodejs/Node.js EventEmitter.md",
+    "Note/Others/Node.js/正则/正则表达式 - 语法.md",
+    "Note/Others/Node.js/正则/正则表达式 - 简介.md",
+    "Note/Others/Node.js/正则/正则表达式 - 教程.md",
+    "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
     "Note/Others/SQL/PREPARE & EXECUTE & DEALLOCATE PREPARE.md",
-    "Note/Others/网络/浏览器域名解析流程.md",
     "Note/Others/网络",
     "Note/Others/SQL/存储过程/存储过程代码示例.md",
     "Note/Others/SQL/存储过程/存储过程.md",
-    "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
     "Note/Others/SQL/Join/关系型数据库JOIN优化以及原理.md",
     "Note/Others/SQL/Mysql/MySQL事务.md",
     "Note/Others/SQL/Mysql/Explain.md",
     "Note/Others/SQL/In 与 Exists 从句优化.md",
     "Note/Others/SQL/SQL 要点.md",
-    "Note/Others/关系代数/依赖.md",
     "Note/Others/关系代数/关系范式.md",
     "Note/Others/SQL/SQL限制.md",
     "Note/Others/数据库恢复与并发控制/事务.md",
-    "Note/Others/SQL/Mysql/MySQL创建表.md",
-    "Note/Others/数据库恢复与并发控制/ACID数据库和BASE数据库.md",
-    "Note/lambda框架与Kappa框架/Kappa框架/Kappa架构的选型.md",
-    "Note/lambda框架与Kappa框架/Kappa框架/什么是Kappa架构.md",
-    "Note/lambda框架与Kappa框架/Kappa框架/Kappa结构的组成.md",
-    "Note/lambda框架与Kappa框架/Lambda框架/Lambda架构选型.md",
-    "Note/lambda框架与Kappa框架/Lambda框架/Lambda框架的优点与缺点.md",
-    "Note/lambda框架与Kappa框架/Lambda框架/Lambda框架的组成以及概念.md",
-    "Note/lambda框架与Kappa框架/Lambda框架/什么是Lambda框架.md",
-    "Note/跨域问题.md",
     "Note/Others/数据库恢复与并发控制",
-    "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 遥测 API/Lambda 遥测 API.md",
-    "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Amazon Lambda 扩展合作伙伴.md",
     "Note/Others/关系代数",
     "Pasted image 20240424095025.png",
     "Note/Others/SQL/Mysql",
@@ -200,11 +202,8 @@
     "Pasted image 20231222104035.png",
     "Pasted image 20231222103944.png",
     "Note/Others/Crontab概念",
-    "Pasted image 20230711101235.png",
     "Learning_notebook",
     "Note/Amazon/learning list/AWS Lambda/Lambda Extensions/Lambda 遥测 API",
-    "Note/Others/Node.js/javaScript/基础",
-    "Note/Azure/HDInsight/assets/Pasted image 20230327092214.png",
-    "Note/Azure/Event Hubs/assets/Pasted image 20230324175209.png"
+    "Note/Azure/HDInsight/assets/Pasted image 20230327092214.png"
   ]
 }

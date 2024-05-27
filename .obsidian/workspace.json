@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Others/计算机系统.md",
+                "file": "Note/Others/计算机寻址.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Others/计算机系统.md",
+                "file": "Note/Others/计算机寻址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Others/计算机系统.md",
+                "file": "Note/Others/计算机寻址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Others/计算机系统.md"
+                "file": "Note/Others/计算机寻址.md"
               }
             }
           }
@@ -148,11 +148,32 @@
   },
   "active": "6c65eb78c42224e6",
   "lastOpenFiles": [
-    "Note/Others/SQL/SQL当中的安全与完整性约束.md",
     "Note/Others/计算机系统.md",
+    "Note/Others/计算机寻址.md",
+    "Note/Others/网络/校验码.md",
+    "Note/Others/网络/网络设备.md",
+    "Note/Others/Crontab概念/Crontab.md",
+    "Note/Others/Node.js/javaScript/JS高级教程/JavaScript prototype（原型对象）.md",
+    "Note/Others/Node.js/javaScript/JS高级教程/JavaScript Math（算数） 对象.md",
+    "Note/Others/Node.js/javaScript/JS高级教程/JavaScript Array（数组） 对象.md",
+    "Note/Others/Node.js/javaScript/JS高级教程/JavaScript 对象.md",
+    "Note/Others/Node.js/javaScript/JS函数/JavaScript 闭包.md",
+    "Note/Others/Node.js/javaScript/JS函数/JavaScript 函数调用.md",
+    "Note/Others/Node.js/javaScript/JS函数/JavaScript 函数定义.md",
+    "Note/Others/Node.js/javaScript/JS函数/JavaScript 函数参数.md",
+    "Note/Others/Node.js/javaScript/开发注意点.md",
+    "Note/Others/Node.js/javaScript/JS高级教程/JavaScript 字符串（String） 对象.md",
+    "Note/Others/Restful API/Restful API.md",
+    "Note/Others/severless/YML文件配置.md",
+    "Note/Others/SQL/存储过程/存储过程代码示例.md",
+    "Note/Others/SQL/存储过程/存储过程.md",
+    "Note/Others/SQL/In 与 Exists 从句优化.md",
+    "Note/Others/SQL/PREPARE & EXECUTE & DEALLOCATE PREPARE.md",
+    "Note/Others/SQL/SQL 要点.md",
+    "Note/Others/SQL/SQL当中的安全与完整性约束.md",
+    "Note/Others/SQL/SQL限制.md",
     "Note/Others/关系代数/无损连接.md",
     "Note/Others/数据库设计的基本步骤/数据库设计的基本步骤.md",
-    "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
     "Pasted image 20240520131622.png",
     "Pasted image 20240517230303.png",
     "Pasted image 20240517230243.png",
@@ -163,31 +184,10 @@
     "Pasted image 20240517230141.png",
     "Pasted image 20240517230130.png",
     "Pasted image 20240517230120.png",
-    "Note/Others/软件管理/耦合.md",
-    "Note/Others/软件管理/笔记.md",
     "Note/Others/软件管理",
-    "Note/Others/网络/网络设备.md",
-    "Note/Others/网络/校验码.md",
-    "Note/Others/网络/域名解析流程.md",
-    "Note/Others/数据挖掘/常用的数据挖掘算法.md",
     "Note/Others/数据挖掘",
     "Note/Others/数据库设计的基本步骤",
-    "Note/Others/分布式数据库/分布式数据库特点.md",
     "Note/Others/分布式数据库",
-    "Note/Others/SQL/SQL限制.md",
-    "Note/Others/SQL/SQL 要点.md",
-    "Note/Others/SQL/PREPARE & EXECUTE & DEALLOCATE PREPARE.md",
-    "Note/Others/数据库恢复与并发控制/事务.md",
-    "Note/Others/关系代数/依赖.md",
-    "Note/Others/网络/浏览器域名解析流程.md",
-    "Note/Others/Node.js/nodejs/Node.js 连接 MongoDB.md",
-    "Note/Others/Node.js/nodejs/Node.js模块系统.md",
-    "Note/Others/Node.js/nodejs/NPM 使用介绍.md",
-    "Note/Others/Node.js/nodejs/Node.js Express 框架.md",
-    "Note/Others/Node.js/nodejs/Node.js EventEmitter.md",
-    "Note/Others/Node.js/正则/正则表达式 - 语法.md",
-    "Note/Others/Node.js/正则/正则表达式 - 简介.md",
-    "Note/Others/Node.js/正则/正则表达式 - 教程.md",
     "Note/Others/网络",
     "Note/Others/数据库恢复与并发控制",
     "Note/Others/关系代数",

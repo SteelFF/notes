@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Others/计算机系统.md",
+                "file": "Note/Learning List/Learning List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Others/计算机系统.md",
+                "file": "Note/Learning List/Learning List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Others/计算机系统.md",
+                "file": "Note/Learning List/Learning List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Others/计算机系统.md"
+                "file": "Note/Learning List/Learning List.md"
               }
             }
           }
@@ -148,11 +148,35 @@
   },
   "active": "6c65eb78c42224e6",
   "lastOpenFiles": [
-    "Note/Others/SQL/SQL当中的安全与完整性约束.md",
-    "Note/Others/计算机系统.md",
-    "Note/Others/关系代数/无损连接.md",
+    "Note/Others/Crontab概念/不同环境支持的Crontab.md",
+    "Note/Learning List/Learning List.md",
+    "Note/Learning List",
+    "Note/Untitled.md",
+    "Note/Others/Crontab概念/Crontab.md",
     "Note/Others/数据库设计的基本步骤/数据库设计的基本步骤.md",
+    "Note/Others/数据库恢复与并发控制/事务.md",
+    "Note/Others/计算机系统.md",
+    "Note/Others/网络/校验码.md",
+    "Note/Others/网络/网络设备.md",
+    "Note/Others/软件管理/耦合.md",
+    "Note/Others/软件管理/笔记.md",
+    "Note/Others/分布式数据库/分布式数据库特点.md",
+    "Note/Others/Pandas/Pandas常用的方法.md",
+    "Note/Others/SQL/DROP, DELETE, TRUNCATE.md",
+    "Note/Others/Pandas/Pandas 可以做什么.md",
+    "Note/Others/Pandas/Pandas 底层原理.md",
     "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
+    "Note/Others/SQL/Join/关系型数据库JOIN优化以及原理.md",
+    "Note/Others/SQL/In 与 Exists 从句优化.md",
+    "Note/Others/SQL/SQL当中的安全与完整性约束.md",
+    "Note/Others/SQL/SQL 要点.md",
+    "Note/Others/SQL/PREPARE & EXECUTE & DEALLOCATE PREPARE.md",
+    "Note/Others/SQL/Mysql/Explain.md",
+    "Note/Others/数据挖掘/常用的数据挖掘算法.md",
+    "Note/Others/网络/域名解析流程.md",
+    "Note/Others/Spark",
+    "Note/Others/Pandas",
+    "Note/Others/Untitled.md",
     "Pasted image 20240520131622.png",
     "Pasted image 20240517230303.png",
     "Pasted image 20240517230243.png",
@@ -163,36 +187,12 @@
     "Pasted image 20240517230141.png",
     "Pasted image 20240517230130.png",
     "Pasted image 20240517230120.png",
-    "Note/Others/软件管理/耦合.md",
-    "Note/Others/软件管理/笔记.md",
     "Note/Others/软件管理",
-    "Note/Others/网络/网络设备.md",
-    "Note/Others/网络/校验码.md",
-    "Note/Others/网络/域名解析流程.md",
-    "Note/Others/数据挖掘/常用的数据挖掘算法.md",
     "Note/Others/数据挖掘",
     "Note/Others/数据库设计的基本步骤",
-    "Note/Others/分布式数据库/分布式数据库特点.md",
     "Note/Others/分布式数据库",
-    "Note/Others/SQL/SQL限制.md",
-    "Note/Others/SQL/SQL 要点.md",
-    "Note/Others/SQL/PREPARE & EXECUTE & DEALLOCATE PREPARE.md",
-    "Note/Others/数据库恢复与并发控制/事务.md",
-    "Note/Others/关系代数/依赖.md",
-    "Note/Others/网络/浏览器域名解析流程.md",
-    "Note/Others/Node.js/nodejs/Node.js 连接 MongoDB.md",
-    "Note/Others/Node.js/nodejs/Node.js模块系统.md",
-    "Note/Others/Node.js/nodejs/NPM 使用介绍.md",
-    "Note/Others/Node.js/nodejs/Node.js Express 框架.md",
-    "Note/Others/Node.js/nodejs/Node.js EventEmitter.md",
-    "Note/Others/Node.js/正则/正则表达式 - 语法.md",
-    "Note/Others/Node.js/正则/正则表达式 - 简介.md",
-    "Note/Others/Node.js/正则/正则表达式 - 教程.md",
     "Note/Others/网络",
     "Note/Others/数据库恢复与并发控制",
-    "Note/Others/关系代数",
-    "Note/Others/SQL/Mysql",
-    "Note/Others/SQL/Join",
-    "Note/Others/SQL/存储过程"
+    "Note/Others/关系代数"
   ]
 }

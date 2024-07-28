@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Others/计算机寻址.md",
+                "file": "Note/Spark/Spark Core.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Others/计算机寻址.md",
+                "file": "Note/Spark/Spark Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Others/计算机寻址.md",
+                "file": "Note/Spark/Spark Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Others/计算机寻址.md"
+                "file": "Note/Spark/Spark Core.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "6c65eb78c42224e6",
   "lastOpenFiles": [
-    "Note/Others/计算机系统.md",
+    "Note/Spark/Spark概念.md",
+    "Note/Spark/Spark Core.md",
     "Note/Others/计算机寻址.md",
+    "Note/Spark",
+    "Note/Untitled.md",
+    "Note/Others/计算机系统.md",
     "Note/Others/网络/校验码.md",
     "Note/Others/网络/网络设备.md",
     "Note/Others/Crontab概念/Crontab.md",
@@ -171,9 +175,6 @@
     "Note/Others/SQL/PREPARE & EXECUTE & DEALLOCATE PREPARE.md",
     "Note/Others/SQL/SQL 要点.md",
     "Note/Others/SQL/SQL当中的安全与完整性约束.md",
-    "Note/Others/SQL/SQL限制.md",
-    "Note/Others/关系代数/无损连接.md",
-    "Note/Others/数据库设计的基本步骤/数据库设计的基本步骤.md",
     "Pasted image 20240520131622.png",
     "Pasted image 20240517230303.png",
     "Pasted image 20240517230243.png",
@@ -192,7 +193,6 @@
     "Note/Others/数据库恢复与并发控制",
     "Note/Others/关系代数",
     "Note/Others/SQL/Mysql",
-    "Note/Others/SQL/Join",
-    "Note/Others/SQL/存储过程"
+    "Note/Others/SQL/Join"
   ]
 }

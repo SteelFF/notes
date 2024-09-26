@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Learning List/Learning List.md",
+                "file": "Note/Shell/Shell变量.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Learning List/Learning List.md",
+                "file": "Note/Shell/Shell变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Learning List/Learning List.md",
+                "file": "Note/Shell/Shell变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Learning List/Learning List.md"
+                "file": "Note/Shell/Shell变量.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "6c65eb78c42224e6",
   "lastOpenFiles": [
-    "Note/Others/Crontab概念/不同环境支持的Crontab.md",
     "Note/Learning List/Learning List.md",
+    "Note/Shell/Shell变量.md",
+    "Note/Others/Crontab概念/不同环境支持的Crontab.md",
     "Note/Learning List",
     "Note/Untitled.md",
     "Note/Others/Crontab概念/Crontab.md",
@@ -176,7 +177,6 @@
     "Note/Others/网络/域名解析流程.md",
     "Note/Others/Spark",
     "Note/Others/Pandas",
-    "Note/Others/Untitled.md",
     "Pasted image 20240520131622.png",
     "Pasted image 20240517230303.png",
     "Pasted image 20240517230243.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Shell/Shell 流程控制.md",
+                "file": "Note/Others/网络/CIDR中的特殊地址.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Shell/Shell 流程控制.md",
+                "file": "Note/Others/网络/CIDR中的特殊地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Shell/Shell 流程控制.md",
+                "file": "Note/Others/网络/CIDR中的特殊地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Shell/Shell 流程控制.md"
+                "file": "Note/Others/网络/CIDR中的特殊地址.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "6c65eb78c42224e6",
   "lastOpenFiles": [
-    "Note/Shell/Shell test 命令.md",
     "Note/Shell/Shell 流程控制.md",
+    "Note/Others/网络/CIDR中的特殊地址.md",
+    "Note/Shell/Shell test 命令.md",
     "Note/Shell/Shell printf 命令.md",
     "Note/Shell/Shell echo命令.md",
     "Note/Shell/Shell 基本运算符.md",
@@ -161,7 +162,6 @@
     "Note/Learning List/Learning List.md",
     "Note/Others/Crontab概念/不同环境支持的Crontab.md",
     "Note/Learning List",
-    "Note/Untitled.md",
     "Note/Others/Crontab概念/Crontab.md",
     "Note/Others/数据库设计的基本步骤/数据库设计的基本步骤.md",
     "Note/Others/数据库恢复与并发控制/事务.md",

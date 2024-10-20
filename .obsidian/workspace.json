@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Shell/Shell变量.md",
+                "file": "Note/Shell/Shell 流程控制.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Shell/Shell变量.md",
+                "file": "Note/Shell/Shell 流程控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Shell/Shell变量.md",
+                "file": "Note/Shell/Shell 流程控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Shell/Shell变量.md"
+                "file": "Note/Shell/Shell 流程控制.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "6c65eb78c42224e6",
   "lastOpenFiles": [
+    "Note/Shell/Shell test 命令.md",
+    "Note/Shell/Shell 流程控制.md",
+    "Note/Shell/Shell printf 命令.md",
+    "Note/Shell/Shell echo命令.md",
+    "Note/Shell/Shell 基本运算符.md",
+    "Note/Shell/Shell 数组.md",
+    "Note/Shell/编写健壮的Bash shell脚本.md",
+    "Note/跨域问题.md",
+    "Note/Shell/Shell 变量.md",
+    "Note/Shell/Shell 传递参数.md",
     "Note/Learning List/Learning List.md",
-    "Note/Shell/Shell变量.md",
     "Note/Others/Crontab概念/不同环境支持的Crontab.md",
     "Note/Learning List",
     "Note/Untitled.md",
@@ -166,15 +175,6 @@
     "Note/Others/SQL/DROP, DELETE, TRUNCATE.md",
     "Note/Others/Pandas/Pandas 可以做什么.md",
     "Note/Others/Pandas/Pandas 底层原理.md",
-    "Note/Others/SQL/Join/Join 驱动表与被驱动表.md",
-    "Note/Others/SQL/Join/关系型数据库JOIN优化以及原理.md",
-    "Note/Others/SQL/In 与 Exists 从句优化.md",
-    "Note/Others/SQL/SQL当中的安全与完整性约束.md",
-    "Note/Others/SQL/SQL 要点.md",
-    "Note/Others/SQL/PREPARE & EXECUTE & DEALLOCATE PREPARE.md",
-    "Note/Others/SQL/Mysql/Explain.md",
-    "Note/Others/数据挖掘/常用的数据挖掘算法.md",
-    "Note/Others/网络/域名解析流程.md",
     "Note/Others/Spark",
     "Note/Others/Pandas",
     "Pasted image 20240520131622.png",
